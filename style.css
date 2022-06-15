@@ -1,0 +1,22 @@
+*{background-color: lightpink}
+body {
+    font-size: 15pt;
+    text-align: centre;
+    font-style: bold;
+}
+ h1 {text-align: center;}
+ .button{
+   width: 200px;
+   background-color: green;
+   font-weight: bold;
+  font-size: 30px;
+   padding: 10px;
+   border-radius: 10px;
+   position: relative;
+   
+   
+  ;
+ }
+   
+ 
+ 
